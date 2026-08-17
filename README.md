@@ -1,4 +1,3 @@
-# CS-Portfolio
 This repository is part of my Computer Science portfolio. It contains selected coursework, projects, and demonstrations of skills developed throughout my CS program. Each module highlights specific competencies including software development, problem‑solving, algorithms, backend engineering, and full‑stack application design.
 
 This portfolio is actively maintained and will continue to grow as I complete additional courses and projects.
@@ -30,7 +29,7 @@ A central hub for assignments, modules, and projects
 A demonstration of my growth in software engineering
 
 Included Work
-This repository will include:
+This repository includes:
 
 Module assignments
 
@@ -46,44 +45,24 @@ Documentation and write‑ups
 
 Any required course submissions
 
-As the course progresses, new folders will be added for each module.
+New folders will be added as I progress through the CS curriculum.
 
-Instructor Collaboration
-My instructor has been added as a collaborator so they can:
+Major Projects
+CS330 — Computational Graphics and Visualization
+A complete 3D scene built using modern OpenGL, including:
 
-View my portfolio
+Custom geometry
 
-Review submissions
+Camera movement
 
-Track progress
+Lighting and shading
 
-Provide feedback
+Transformations
 
-Collaborator Invite Link:  
-Paste your invite link here once generated.
+A compiled executable
 
-Technologies Used
-Python
+Project folder:
+CS330 Project
 
-FastAPI
-
-SQLAlchemy
-
-C++
-
-CUDA
-
-Node.js
-
-Git & GitHub
-
-Docker
-
-Railway (deployment)
-
-Contact
-If you have questions or would like to connect:
-
-GitHub: Mdelphia85
-
-Email: matthew.delphia1@snhu.edu
+Reflection & design decisions:
+CS330 Design Decisions
